@@ -82,13 +82,6 @@ extracted_urls_YYYYMMDD_HHMMSS.txt
 
 ---
 
-## 👨‍💻 Author
-
-Built with 🧠, ☕, and Burp by **gokuKaioKen**  
-Feel free to fork, improve, or submit pull requests!
-
----
-
 ## 🧪 Usage
 
 1. **Navigate to the Target tab in Burp Suite.**
@@ -119,6 +112,13 @@ Feel free to fork, improve, or submit pull requests!
 
 📝 Output files will be timestamped and saved to your selected directory.  
 If "Split output" is enabled, each domain gets its own folder and file.
+
+---
+
+## 👨‍💻 Author
+
+Built with 🧠, ☕, and Burp by **gokuKaioKen**  
+Feel free to fork, improve, or submit pull requests!
 
 ---
 
